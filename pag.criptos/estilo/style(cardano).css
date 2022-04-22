@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://cdn.decrypt.co/wp-content/uploads/2021/03/cardano-ada-gID_6.jpg);
+}
+
+h4 {
+    -webkit-text-fill-color: rgb(236, 175, 255);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color:rgb(212, 0, 255);
+    font-family: fantasy;
+background-color:#a3f259;
+border-color: #F69DA1;
+border-width: 5px;
+border-style: solid;
+}

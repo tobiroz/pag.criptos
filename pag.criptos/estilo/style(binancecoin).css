@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://enqueinvertir.com/wp-content/uploads/2020/12/Binance-y-que-nos-deparara-a-Medio-y-Largo-plazo-1068x719.jpg);
+}
+
+h4 {
+    -webkit-text-fill-color: rgb(255, 0, 0);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color:rgb(255, 182, 182);
+    font-family: fantasy;
+    background-color:#d6f259;
+border-color: #F69DA1;
+border-width: 5px;
+border-style: solid;
+}

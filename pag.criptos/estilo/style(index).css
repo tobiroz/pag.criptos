@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://tecnobits.net/wp-content/uploads/2018/02/trading.jpg");
+
+}
+
+h1 {
+    -webkit-text-fill-color: rgb(255, 239, 16);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color:rgb(0, 209, 209);
+    
+
+}
+
+h2 {
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: floralwhite;
+
+}
+
+
+h3 {
+    border: black 1px solid;
+    position: absolute;
+    top: 170px;
+float: left;
+margin-left: 950px;
+
+}
+
+h4 {
+    border: black 1px solid;
+    position: absolute;
+    top: 160px;
+    float: left;
+    margin-left: 60px;
+
+}
+

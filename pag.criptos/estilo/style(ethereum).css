@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/moneda-ethereum-sobre-fondo-hud-grafico-acciones-toro_107173-16556.jpg?size=626&ext=jpg);
+}
+
+h4 {
+    -webkit-text-fill-color: rgb(236, 175, 255);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color:rgb(3, 22, 110);
+    font-family: fantasy;
+background-color:#6359f2;
+border-color: #9df6b0;
+border-width: 5px;
+border-style: solid;
+}

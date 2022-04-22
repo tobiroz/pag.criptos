@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://www.infotechnology.com/files/image/100/100749/616d831f42943.jpg);
+}
+
+h4 {
+    -webkit-text-fill-color: rgb(221, 235, 97);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color:rgb(255, 94, 0);
+    font-family: fantasy;
+background-color:#597df2;
+border-color: #F69DA1;
+border-width: 5px;
+border-style: solid;
+}
